@@ -5,4 +5,4 @@ const getArraySum = arr => arr.reduce((sum, item) => sum += item, 3);
 export default {
   url: baseURL,
   arraySum : getArraySum
-}
+}   
